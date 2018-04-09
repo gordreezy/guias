@@ -22,3 +22,5 @@ $ git commit -m "descripcion del commit" // Hacer un commit
 $ git push origin master // Subir los cambios al repoisitorio en la nube, nos pedira el nombre de usuario y contraseña de la cuenta de github
 
 $ git diff // Ver los cambios realizados
+
+$ git branch // Ver las ramas del repositorio
