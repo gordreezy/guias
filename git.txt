@@ -11,14 +11,14 @@ $ git config --global user.email miemail@example.com // igualmente el correo que
 
 $ git init // Inicializar una carpeta como repositorio de git.
 
-$ git status // ver si hay cambios en el repositorio
+$ git status // Ver si hay cambios en el repositorio
 
-$ git log // ver los commits del repositorio
+$ git log // Ver los commits del repositorio
 
-$ git add * // agregar todos los cambios al seguimiento de git
+$ git add * // Agregar todos los cambios al seguimiento de git
 
-$ git commit -m "descripcion del commit" // hacer un commit
+$ git commit -m "descripcion del commit" // Hacer un commit
 
-$ git push origin master // subir los cambios al repoisitorio en la nube, nos pedira el nombre de usuario y contraseña de la cuenta de github
+$ git push origin master // Subir los cambios al repoisitorio en la nube, nos pedira el nombre de usuario y contraseña de la cuenta de github
 
-$ git diff // ver los cambios realizados
+$ git diff // Ver los cambios realizados
