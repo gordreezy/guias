@@ -1,0 +1,24 @@
+# Para usuario root
+$ para usuario regular
+
+----
+
+# aptitude install git // Instalación del paquete git
+
+$ git config --global user.name "Mi nombre y apellido" // Asignamos el nombre de usuario que será la firma del usuario en cada commit.
+
+$ git config --global user.email miemail@example.com // igualmente el correo que siempre acompañara al autor de cada commit.
+
+$ git init // Inicializar una carpeta como repositorio de git.
+
+$ git status // ver si hay cambios en el repositorio
+
+$ git log // ver los commits del repositorio
+
+$ git add * // agregar todos los cambios al seguimiento de git
+
+$ git commit -m "descripcion del commit" // hacer un commit
+
+$ git push origin master // subir los cambios al repoisitorio en la nube, nos pedira el nombre de usuario y contraseña de la cuenta de github
+
+$ git diff // ver los cambios realizados
