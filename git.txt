@@ -24,3 +24,7 @@ $ git push origin master // Subir los cambios al repoisitorio en la nube, nos pe
 $ git diff // Ver los cambios realizados
 
 $ git branch // Ver las ramas del repositorio
+
+$ git clone https://github.com/nombre_usuario/nombre_repo.git // Clonar un repositorio de git.
+
+$ git pull // Traerse al local los cambios que haya en el repositorio en la nube.
